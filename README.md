@@ -1,2 +1,3 @@
-# granitecode.github.io
-website
+# granitecode.ai
+
+Welcome to Granite.code 
