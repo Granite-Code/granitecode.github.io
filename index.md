@@ -13,6 +13,10 @@ Granite.code is an AI-powered code assistant built using **Granite models** — 
 
 The first implementation of Granite.code is a **VS Code extension**, but with the support of the open-source community, we hope to expand it to other IDEs, including **Vim and Emacs**.
 
+## System Requirements
+We are constantly working on improving performance on different kind of systems, but currently the recommended hardware is: 
+Discrete NVIDIA and AMD gpus for Linux and Windows and M-series Macbooks with m2 or higher (m3 or m4 preferred) with at least 20-24GB of memory.
+
 ## Features
 - **Setup Wizard:** Guides users through downloading and installing **Ollama** and the **Granite model**.
 - **Automatic Model Selection & Updates:** Ensures users always have the latest models.
