@@ -23,6 +23,8 @@ Discrete NVIDIA and AMD gpus for Linux and Windows and M-series Macbooks with m2
 - **Streamlined UI:** Optimized for coding assistance.
 
 ## How to Get Granite.code
+For Linux users we recommend getting the <a href="https://code.visualstudio.com/download">tarball version of VS Code from the VS Code website</a>, don't use the RPM, DEB or Flatpak versions as you want a version that can update itself. We will be looking at making things work perfectly with Flatpak and make that our recommended version.
+
 You can get **Granite.code** from the following sources:
 - **[GitHub Repository](https://github.com/Granite-Code)** – Full source code and development updates.
 - **[VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=redhat.granitecode)** – Download the prebuilt extension.
