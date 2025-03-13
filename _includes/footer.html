@@ -1,0 +1,21 @@
+<footer>
+  <nav>
+    <ul class="bottomlinks">
+      {% for link in site.data.links %}
+      {% if link.url contains "http" %}
+        <li><a class="extlink" href="{{ link.url | prepend: site.baseurl }}">{{ link.lnk }} {% include extlink.svg %}</a></li>
+      {% else %}
+        <li><a href="{{ link.url | prepend: site.baseurl }}">{{ link.lnk }}</a></li>
+      {% endif %}
+      {% endfor %}
+
+      <li><span class="socials">
+        <a href="https://techhub.social/@granitecode" class="social" rel="me">{% include mastodon.svg %}</a>
+        <a href="https://bsky.app/profile/granitecode.bsky.social" class="social">{% include bluesky.svg %}</a>
+        <a href="https://x.com/GraniteCode" class="social">{% include x.svg %}</a>
+      </span></li>
+    </ul>
+  </nav>
+  <p>&copy; {{ site.title }}, 2024 &ndash; 2025<br>
+  <a href="{{ site.sourceurl }}">Website source</a></p>
+</footer>

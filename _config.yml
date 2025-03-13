@@ -1,3 +1,11 @@
-theme: jekyll-theme-minimal
-title: Granite.Code AI code assistant
-description: This site will contain information and links about Granite.code
+# Site settings
+title: Granitecode
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://granitecode.ai/"
+sourceurl: "https://github.com/Granite-Code/granitecode.github.io"
+description: "AI code assistant"
+
+permalink: /:title/
+
+# Build settings
+markdown: kramdown
