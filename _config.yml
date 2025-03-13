@@ -1,5 +1,5 @@
 # Site settings
-title: Granitecode
+title: Granite.code AI
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://granitecode.ai/"
 sourceurl: "https://github.com/Granite-Code/granitecode.github.io"

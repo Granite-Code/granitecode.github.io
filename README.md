@@ -1,3 +1,3 @@
 # granitecode.ai
 
-Welcome to Granitecode 
+Welcome to Granite.code 

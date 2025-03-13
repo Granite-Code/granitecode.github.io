@@ -11,7 +11,7 @@ fedora-version: 41
 ## Installation Guide
 
 1. **Install the Extension**
-   - Download and install the **[Granitecode](https://marketplace.visualstudio.com/items?itemName=redhat.granitecode)** extension from the VS Code Marketplace.
+   - Download and install the **[Granite.code](https://marketplace.visualstudio.com/items?itemName=redhat.granitecode)** extension from the VS Code Marketplace.
    
 2. **Set Up the Environment**
    - Follow the built-in **setup wizard** to install **Ollama** and the required **Granite model**.
