@@ -15,7 +15,7 @@ The first implementation of Granite.code is a **VS Code extension**, but with th
 
 ## System Requirements
 We are constantly working on improving performance on different kind of systems, but currently the recommended hardware is: 
-Discrete NVIDIA and AMD gpus for Linux and Windows and M-series Macbooks with m2 or higher (m3 or m4 preferred) with at least 20-24GB of memory.
+Discrete NVIDIA and AMD gpus for Linux and Windows and M-series Macbooks with m2 or higher with at least 20-24GB of memory.
 
 ## Features
 - **Setup Wizard:** Guides users through downloading and installing **Ollama** and the **Granite model**.
