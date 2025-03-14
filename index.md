@@ -22,6 +22,8 @@ Discrete NVIDIA and AMD gpus for Linux and Windows and M-series Macbooks with m2
 - **Automatic Model Selection & Updates:** Ensures users always have the latest models.
 - **Streamlined UI:** Optimized for coding assistance.
 
+![VScode Extension Install](assets/vscode-install.webp)
+
 ## How to Get Granite.code
 For Linux users we recommend getting the <a href="https://code.visualstudio.com/download">tarball version of VS Code from the VS Code website</a>, don't use the RPM, DEB or Flatpak versions as you want a version that can update itself. We will be looking at making things work perfectly with Flatpak and make that our recommended version.
 
