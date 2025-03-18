@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<picture class="full pixels">
+<picture class="full">
     <source srcset="assets/granite-splash-dark.png" media="(prefers-color-scheme: dark)">
     <img src="assets/granite-splash.png">
 </picture>
