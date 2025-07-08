@@ -38,4 +38,4 @@ Granite.code is an open-source project, and contributions from the community are
 
 - **Contribute on GitHub**: [Submit issues](https://github.com/Granite-Code/granite-code/issues).
 
-For comprehensive installation guides and troubleshooting, visit the official [Granite.Code Documentation](https://docs.granitecode.ai/).
+For comprehensive installation guides and usage instructions, visit the official [Granite.Code Documentation](https://docs.granitecode.ai/).
